@@ -1,5 +1,5 @@
 {
-  "name": "jakarta-ecommerce",
+  "name": "be-jakarta-ecommercee",
   "type": "module",
   "version": "1.0.0",
   "description": "",
@@ -8,8 +8,16 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atsill/be-jakarta-ecommerce.git"
+  },
   "author": "Atsiilah Thufailah",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atsill/be-jakarta-ecommerce/issues"
+  },
+  "homepage": "https://github.com/atsill/be-jakarta-ecommerce#readme",
   "dependencies": {
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
